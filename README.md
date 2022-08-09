@@ -1,1 +1,1 @@
-# Solution-of-clinical-vascular-occlusion-mining-based-on-standard-data
+# Clinical-Vascular-Occlusion-Standard-Data-Mining-Solution
